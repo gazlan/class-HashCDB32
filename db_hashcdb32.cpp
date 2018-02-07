@@ -4,7 +4,7 @@
 ** @  Author :
 ** @  Modify :
 ** @  Update :
-** @  Notes  :
+** @  Notes  : A constant database
 ** ******************************************************************** */
 
 #ifdef _DEBUG
